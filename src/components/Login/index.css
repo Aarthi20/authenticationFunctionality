@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: bold;
+}
+.button {
+  border: 1px solid #000000;
+  width: 350px;
+  padding: 5px;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
